@@ -1,5 +1,5 @@
 # College-Manage-System-DBMS-project
-College management System DBMS project in html, css, javascript, bootstrap as front end and php as backend
+College management System DBMS project with html, css, javascript, bootstrap as front end and php as backend
 
 #How to run
 1. start your apache and mysql server (for this project apache is at port 8080 so edit this project accordingly)
