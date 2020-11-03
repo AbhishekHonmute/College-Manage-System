@@ -6,8 +6,8 @@ $db_servername = "localhost";
 require 'fpdf.php';
 $conn = mysqli_connect($db_servername, $db_username, $db_password, $db1_name);
 session_start();
-// $mis = $_SESSION['login_user_mis'];
-$mis = "7486";
+$mis = $_SESSION['login_user_mis'];
+//$mis = "7486";
 
 $sql = "SELECT fname, lname, dept_id, dob FROM student WHERE mis=".$mis." ";
 if ($result = $conn->query($sql)) {
