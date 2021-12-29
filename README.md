@@ -1,4 +1,5 @@
-# College-Manage-System-DBMS-project
+# College-Manage-System
+DBMS project
 College management System DBMS project with html, css, javascript, bootstrap as front end and php as backend
 
 #How to run
